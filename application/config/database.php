@@ -75,11 +75,11 @@ $query_builder = TRUE;
 
 //details for mysql
 $db['mysql'] = array(
-	'dsn'	=> 'mysql:hostname=localhost; dbname=1410inventory',
-	'hostname' => '',
-	'username' => 'root',
-	'password' => '',
-	'database' => '',
+	'dsn'	=> 'mysql:hostname=fdb22.awardspace.net; dbname=2835011_misms',
+	'hostname' => 'fdb22.awardspace.net',
+	'username' => '2835011_misms',
+	'password' => 'jumavic@9118',
+	'database' => '2835011_misms',
 	'dbdriver' => 'pdo',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
@@ -103,7 +103,7 @@ $db['sqlite'] = array(
 	'hostname' => '',
 	'username' => '',
 	'password' => '',
-	'database' => BASEPATH . 'sqlite/1410inventory.sqlite',
+	'database' => BASEPATH . 'sqlite/2835011_misms.sqlite',
 	'dbdriver' => 'sqlite3',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

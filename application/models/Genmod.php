@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 /**
  * Description of Genmod
  *
- * @author Amir <amirsanni@gmail.com>
+ * @author victor <vicjuma945@gmail.com>
  */
 class Genmod extends CI_Model{
     

@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('');
 /**
  * Description of Administrators
  *
- * @author Amir <amirsanni@gmail.com>
+ * @author victor <vicjuma945@gmail.com>
  * @date 31st Jan, 2016
  */
 class Administrators extends CI_Controller{
